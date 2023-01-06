@@ -1,4 +1,3 @@
-// import Game from "./game.mjs";
 import GameBoard from "./board";
 import { options, ID } from "../utils/config";
 import DragAndDrop from "./dragAndDrop";

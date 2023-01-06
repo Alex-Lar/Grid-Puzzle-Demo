@@ -1,3 +1,3 @@
 import "./App/index.ts";
 import "./index.html";
-import "./styles/styles.css";
+import "./public/styles/styles.css";
